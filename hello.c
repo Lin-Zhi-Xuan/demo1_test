@@ -2,7 +2,8 @@
 
 int main()
 {
-    printf("hello");
+    printf("hello gvgg");
+    printf("hello yukgk");
     return 0;
 
 }
